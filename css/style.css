@@ -1,0 +1,57 @@
+body,
+html {
+    height: 100%;
+    margin: 0px;
+    font-family: "Roboto", sans-serif;
+    background-image: url("../img/200309-D-HN545-003.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card {
+   background-color: rgba(228, 208, 208, 0.591);
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, .2);
+    margin: 20px;
+    padding: 20px;
+}
+
+.intro-section {
+    background-size: cover;
+    text-align: center;
+}
+
+.about-section {
+    text-align: center;
+    background-size: cover;
+}
+
+h2,
+h1 {
+    color: rgba(7, 11, 14, 0.763);
+}
+
+h3,
+h4,
+h5{
+    color: rgb(255, 255, 255);
+}
+
+.contamination-section{
+    text-align: center;
+    background-size: cover;
+}
+
+.symptômes-section{
+    text-align: center;
+    background-size: cover;
+}
+       
